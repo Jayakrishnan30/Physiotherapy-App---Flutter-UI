@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import '../profile_page.dart';
 
+// main class
 class Fields extends StatelessWidget {
   const Fields({
     super.key,required this.hints,
